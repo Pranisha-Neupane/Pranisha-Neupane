@@ -1,1 +1,68 @@
 
+<h1 align="center">Hi 👋, I'm Pranisha Neupane</h1>
+<h3 align="center">Web Developer from Nepal 🇳🇵</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranisha-Neupane&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I build **web applications** with Python, Django, and JavaScript
+- 🌱 Currently sharpening my full-stack skills through real projects
+- 🛒 Recent work: a **wardrobe e-commerce website** (Django + JS) with full CRUD for a clothing store
+- 💡 I enjoy turning ideas into working, user-friendly websites
+- 📫 Reach me at: **npranisha33@gmail.com
+**
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranisha-Neupane&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranisha-Neupane&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranisha-Neupane&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [The-Wardrobe-ecommerce](https://github.com/Pranisha-Neupane/The-Wardrobe-ecommerce) | A wardrobe e-commerce website with full CRUD for a clothing store | Django · HTML · CSS · JS |
+| [Shopping-Website](https://github.com/Pranisha-Neupane/Shopping-Website) | A front-end shopping website | HTML · CSS |
+| [authentication_form](https://github.com/Pranisha-Neupane/authentication_form) | User authentication system | Python |
+| [portifolio1](https://github.com/Pranisha-Neupane/portifolio1) | Personal portfolio site | HTML |
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://www.linkedin.com/in/pranisha-neupane-3a46b8263/=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:npranisha33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Pranisha-Neupane">Pranisha-Neupane</a></i></p>
