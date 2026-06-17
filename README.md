@@ -9,11 +9,11 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I build **web applications** with Python, Django, and JavaScript
-- 🌱 Currently sharpening my full-stack skills through real projects
-- 🛒 Recent work: a **wardrobe e-commerce website** (Django + JS) with full CRUD for a clothing store
-- 💡 I enjoy turning ideas into working, user-friendly websites
-- 📫 Reach me at: **npranisha33@gmail.com
+ 🔭 I build **web applications** with Python, Django, and JavaScript
+ 🌱 Currently sharpening my full-stack skills through real projects
+ 🛒 Recent work: a **wardrobe e-commerce website** (Django + JS) with full CRUD for a clothing store
+ 💡 I enjoy turning ideas into working, user-friendly websites
+📫 Reach me at: **npranisha33@gmail.com
 **
 
 ---
