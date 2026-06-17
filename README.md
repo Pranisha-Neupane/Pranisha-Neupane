@@ -8,7 +8,6 @@
 ---
 
 ### 👩‍💻 About Me
-### 👩‍💻 About Me
 
 - 🔭 I build **web applications** with Python, Django, and JavaScript
 - 🤖 Currently **exploring AI** and how to bring it into real projects
