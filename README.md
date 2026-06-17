@@ -1,95 +1,64 @@
 <!-- =========================================================
-     PROFILE BANNER  (typing animation)
+     WAVING GRADIENT BANNER  (animated, via capsule-render)
      ========================================================= -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pranisha+Neupane;Web+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Python+%7C+Django+%7C+JavaScript;I+build+full-stack+web+apps)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pranisha%20Neupane&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20%C2%B7%20Nepal&descSize=18&descAlignY=60" alt="banner" />
 
 </div>
 
 <!-- =========================================================
-     ABOUT ME
+     TYPING LINE
      ========================================================= -->
-## 👩‍💻 About Me
-
-- 🌍 Based in **Nepal**
-- 🛠️ I build **full-stack web applications** with Python, Django & JavaScript
-- 🛒 Recently shipped **The Wardrobe** — a Django e-commerce store with full CRUD
-- 🌱 Currently leveling up my **backend & API** skills
-- 💬 Ask me about **Django, web development, or anything HTML/CSS/JS**
-- 📫 Reach me: **npranisha33@gmail.com**
-
-<br>
-
-<!-- =========================================================
-     TECH STACK
-     ========================================================= -->
-## 🧰 Tech Stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%3E+building+things+with+Django_;%3E+Python+%C2%B7+JavaScript+%C2%B7+HTML+%C2%B7+CSS)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
 <!-- =========================================================
-     GITHUB STATS  (auto-updating cards)
+     THE SNAKE  (auto-generated daily by GitHub Actions)
      ========================================================= -->
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranisha-Neupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranisha-Neupane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranisha-Neupane&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Pranisha-Neupane/Pranisha-Neupane/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Pranisha-Neupane/Pranisha-Neupane/output/github-snake.svg">
+  <img alt="Snake eating my GitHub contributions"
+       src="https://raw.githubusercontent.com/Pranisha-Neupane/Pranisha-Neupane/output/github-snake.svg">
+</picture>
 
 </div>
 
 <br>
 
 <!-- =========================================================
-     FEATURED PROJECTS
+     GRADIENT DIVIDER
      ========================================================= -->
-## 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛒 [The-Wardrobe-ecommerce](https://github.com/Pranisha-Neupane/The-Wardrobe-ecommerce) | A clothing-store e-commerce site with full CRUD for products & orders | Django · HTML · CSS · JS |
-| 🛍️ [Shopping-Website](https://github.com/Pranisha-Neupane/Shopping-Website) | A front-end shopping experience | HTML · CSS |
-| 🔐 [authentication_form](https://github.com/Pranisha-Neupane/authentication_form) | User sign-up / login flow | Python |
-| 🌐 [portfolio](https://github.com/Pranisha-Neupane/portifolio1) | My personal portfolio site | HTML · CSS |
+<img width="80%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+</div>
 
 <br>
 
 <!-- =========================================================
      CONNECT
      ========================================================= -->
-## 🤝 Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-c4302b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 <!-- =========================================================
-     VISITOR COUNT
+     WAVING FOOTER
      ========================================================= -->
-<div align="center">
-<br>
-<img src="https://komarev.com/ghpvc/?username=Pranisha-Neupane&style=flat-square&color=4F8CFF" alt="Profile views" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
