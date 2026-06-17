@@ -17,7 +17,7 @@
 - 🛒 Recently shipped **The Wardrobe** — a Django e-commerce store with full CRUD
 - 🌱 Currently leveling up my **backend & API** skills
 - 💬 Ask me about **Django, web development, or anything HTML/CSS/JS**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **npranisha33@gmail.com**
 
 <br>
 
