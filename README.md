@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pranisha Neupane</h1>
 <h3 align="center">Web Developer from Nepal 🇳🇵</h3>
 
