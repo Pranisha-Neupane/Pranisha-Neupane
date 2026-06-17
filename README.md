@@ -8,11 +8,14 @@
 ---
 
 ### 👩‍💻 About Me
--🔭 I build web applications with Python, Django, and JavaScript
--🌱 Currently sharpening my full-stack skills through real projects
--🛒 Recent work: a wardrobe e-commerce website (Django + JS) with full CRUD for a clothing store
--💡 I enjoy turning ideas into working, user-friendly websites
--📫 Reach me at: your.email@example.com
+### 👩‍💻 About Me
+
+- 🔭 I build **web applications** with Python, Django, and JavaScript
+- 🤖 Currently **exploring AI** and how to bring it into real projects
+- 🛒 Recent work: a **wardrobe e-commerce website** (Django + JS) with full CRUD for a clothing store
+- 🌱 Always learning and sharpening my full-stack skills
+- 💡 I enjoy turning ideas into working, user-friendly websites
+- 📫 Reach me at: **your.email@example.com**
 **
 
 ---
