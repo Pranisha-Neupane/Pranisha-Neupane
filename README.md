@@ -14,8 +14,8 @@
 - 🛒 Recent work: a **wardrobe e-commerce website** (Django + JS) with full CRUD for a clothing store
 - 🌱 Always learning and sharpening my full-stack skills
 - 💡 I enjoy turning ideas into working, user-friendly websites
-- 📫 Reach me at: **npranisha33@gmail.com
-**
+- 📫 Reach me at: npranisha33@gmail.com
+
 
 ---
 
